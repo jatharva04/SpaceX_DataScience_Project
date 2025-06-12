@@ -59,8 +59,6 @@ If we can accurately predict whether the Falcon 9 will land successfully, this c
 
 ---
 
----
-
 ## 📜 License
 This project is licensed for academic purposes as part of Coursera's IBM Data Science Capstone.
 
