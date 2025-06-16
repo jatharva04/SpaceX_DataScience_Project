@@ -64,6 +64,12 @@ If we can accurately predict whether the Falcon 9 will land successfully, this c
 To **view the notebook lab_jupyter_launch_site_location with working interactive maps**, use **nbviewer**:  
 🔗 [View using nbviewer](https://nbviewer.org/github/jatharva04/SpaceX_DataScience_Project/blob/main/lab_jupyter_launch_site_location.ipynb)
 
+## 📂 Machine Learning Notebook Rendering
+
+For some plots and pipeline visuals , please use **nbviewer**:
+
+🔗 [View Full ML Notebook using nbviewer](https://nbviewer.org/github/jatharva04/SpaceX_DataScience_Project/blob/main/SpaceX_Machine%20Learning%20Prediction.ipynb)
+
 ---
 
 ## 📜 License
