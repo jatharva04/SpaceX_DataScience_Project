@@ -58,6 +58,10 @@ If we can accurately predict whether the Falcon 9 will land successfully, this c
 - APIs (SpaceX)
 
 ---
+## 🌍 Interactive Maps (Folium)
+
+To **view the notebook with working interactive maps**, use **nbviewer**:  
+🔗 [View lab_jupyter_launch_site_location Interactive Maps on nbviewer](https://nbviewer.org/github/jatharva04/SpaceX_DataScience_Project/blob/main/lab_jupyter_launch_site_location.ipynb)
 
 ## 📜 License
 This project is licensed for academic purposes as part of Coursera's IBM Data Science Capstone.
