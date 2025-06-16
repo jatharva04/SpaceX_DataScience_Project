@@ -30,7 +30,7 @@ If we can accurately predict whether the Falcon 9 will land successfully, this c
 
 ## 📝 Capstone Summary
 
-### 📌 **Course Introduction**
+### 📌 **Project Introduction**
 - **Collecting Data** from multiple sources (APIs, web scraping)
 - **Data Wrangling & Cleaning**
 - **Data Exploration & SQL Queries**
